@@ -11,7 +11,6 @@ EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
 practice_url = "https://www.amazon.com/dp/B075CYMYK6?psc=1&ref_=cm_sw_r_cp_ud_ct_FM9M699VKHTT47YD50Q6"
-# url ="https://www.amazon.es/fire-tv-stick-4k/dp/B0CJKTWTVT/ref=zg_bsnr_c_electronics_d_sccl_2/258-9029977-7588302?pd_rd_w=syF3F&content-id=amzn1.sym.0c440de5-e3f6-4692-a81e-e4eb168275cc&pf_rd_p=0c440de5-e3f6-4692-a81e-e4eb168275cc&pf_rd_r=CX25SRCP8J9602SYB50B&pd_rd_wg=AfkEr&pd_rd_r=fe1bad9f-2efa-4c6b-955f-eca691094897&pd_rd_i=B0CJKTWTVT&psc=1"
 
 header = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
